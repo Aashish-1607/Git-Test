@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Aashish-1607/Git-Test#readme",
   "devDependencies": {
-    "lite-server": "^2.5.4",
+    "lite-server": "^2.6.1",
     "sanitycheck": "^2.0.2"
   }
 }
